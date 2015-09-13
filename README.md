@@ -2,4 +2,4 @@
 
 ## Learning Perl
 
-+ Finished the Chapter 2 exercises.
++ Should be able to run all programs in the most recent version of perl
